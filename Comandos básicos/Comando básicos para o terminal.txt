@@ -1,0 +1,7 @@
+Comandos Básicos para o Terminal
+Windows:
+cd
+dir
+mkdir
+del/rmdir
+
